@@ -1,0 +1,1 @@
+(function($){$(document).ready(function(){$.cleditor.defaultOptions.width="100%";$.cleditor.defaultOptions.height=300;$.cleditor.defaultOptions.docType="<!doctype html>";$("textarea").cleditor();});})(django.jQuery)
